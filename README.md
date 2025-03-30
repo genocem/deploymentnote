@@ -1,4 +1,3 @@
-```markdown
 # DeploymentNote
 
 a simple cli tool to add notes to deployments in case you want to access some info fast
