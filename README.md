@@ -2,6 +2,8 @@
 
 a simple cli tool to add notes to deployments in case you want to access some info fast
 
+![table preview](https://github.com/genocem/deploymentnote/blob/main/image.png)
+
 ## Prerequisites
 
 - **Go:** Version 1.16 or higher.
