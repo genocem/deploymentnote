@@ -60,6 +60,7 @@ Follow these steps to install DeploymentNote system-wide:
 Once installed, simply run `deploymentnote` 
 
 ### Commands Overview
+Both adding and deleting notes supports autocompletion of deployment name
 
 - **Show Deployments:**
 
